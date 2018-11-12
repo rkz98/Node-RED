@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-os": "^0.1.7",
+        "node-red-contrib-web-worldmap": "^1.5.10",
+        "node-red-dashboard": "^2.10.1",
+        "node-red-node-openweathermap": "^0.2.1",
+        "node-red-node-serialport": "~0.6.8"
+    }
+}
